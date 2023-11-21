@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  padding: 50px;
+}
+
+header{
+  border-bottom: 1px solid #252525;
+  padding: 10px;
+}
+
+main{
+  height: 300px;
+}
+
+footer{
+  background: #efefef;
+}
+
+h1{
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
